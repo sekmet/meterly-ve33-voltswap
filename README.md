@@ -1,5 +1,7 @@
 # Meterly - ve(3,3) for Voltswap
 
+![Meterly Demo](docs/meterly_demo.gif)
+
 ## What is Meterly
 
 **Meterly is a decentralized exchange that has launched on the Meter network with low fees, near 0 slippage on correlated assets and a strong focus on secondary markets for tokenized locks as NFT’s (veToken = lpNFTs).**
